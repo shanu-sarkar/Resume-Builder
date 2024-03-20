@@ -22,6 +22,8 @@ const mapDispatchToProps = (dispatch) => ({
 //years is an arr of the year values.
 //this arr is used to populate the form's start and end year choose inputs.
 const years = [
+  "2024",
+  "2023",
   "2022",
   "2021",
   "2020",
@@ -32,6 +34,18 @@ const years = [
   "2015",
   "2014",
   "2013",
+  "2012",
+  "2011",
+  "2010",
+  "2009",
+  "2008",
+  "2007",
+  "2006",
+  "2005",
+  "2004",
+  "2003",
+  "2002",
+  "2001",
 ];
 
 //WorkExperienceComponent is used for rendering and managing the work experience section of the form,including AddShoppingCart, editing, and deleting work experience entries.
