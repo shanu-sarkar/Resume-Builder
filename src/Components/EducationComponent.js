@@ -19,6 +19,8 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 const years = [
+  "2024",
+  "2023",
   "2022",
   "2021",
   "2020",
@@ -29,6 +31,18 @@ const years = [
   "2015",
   "2014",
   "2013",
+  "2012",
+  "2011",
+  "2010",
+  "2009",
+  "2008",
+  "2007",
+  "2006",
+  "2005",
+  "2004",
+  "2003",
+  "2002",
+  "2001",
 ];
 
 //The primary functional component that accepts various props, including educationInfo, setTab, onAddEducation, and Redux-related properties.
